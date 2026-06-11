@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Botox — forehead & frown lines",
+    "price": "From £800",
+    "painLevel": "Low (2–3/10)",
+    "downtime": "None — avoid lying down 4hrs post-treatment",
+    "description": "Neuromodulator that relaxes overactive muscles causing dynamic wrinkles. Ideal for horizontal forehead lines and glabellar '11' lines. Results appear in 3–7 days, last 3–4 months."
+  },
+  {
+    "name": "Botox — crow's feet",
+    "price": "From £600",
+    "painLevel": "Low (2–3/10)",
+    "downtime": "None",
+    "description": "Targeted botulinum toxin around the lateral orbital area to soften smile lines. Complements upper face treatment for a refreshed, wide-eyed result."
+  },
+  {
+    "name": "Botox — jaw slimming (masseter)",
+    "price": "From £1,200",
+    "painLevel": "Low (2–3/10)",
+    "downtime": "None (mild tenderness 1–2 days)",
+    "description": "Relaxes the masseter muscle to slim the lower face and address teeth grinding. Results visible in 4–6 weeks, last 4–6 months. Repeated treatment leads to longer-lasting muscle reduction."
+  },
+  {
+    "name": "Hyaluronic acid filler — lips",
+    "price": "From £1,200",
+    "painLevel": "Moderate (4–5/10)",
+    "downtime": "2–3 days mild swelling",
+    "description": "HA filler to add volume, definition or hydration to lips. Customisable from subtle enhancement to fuller result. Results last 6–12 months depending on product used."
+  },
+  {
+    "name": "Hyaluronic acid filler — cheeks",
+    "price": "From £1,800",
+    "painLevel": "Moderate (4–5/10)",
+    "downtime": "2–5 days (bruising possible)",
+    "description": "Deep cheek augmentation or restoration of volume loss. Lifts the midface, improves nasolabial folds indirectly. Lasts 12–18 months."
+  },
+  {
+    "name": "Hyaluronic acid filler — tear trough",
+    "price": "From £1,500",
+    "painLevel": "Moderate (4–5/10)",
+    "downtime": "3–5 days (bruising likely)",
+    "description": "Addresses hollow under-eye area causing dark shadows and tired appearance. Requires precise cannula technique. Results last 12–18 months."
+  },
+  {
+    "name": "Hyaluronic acid filler — nose (non-surgical rhinoplasty)",
+    "price": "From £1,500",
+    "painLevel": "Low–Moderate (3–4/10)",
+    "downtime": "Mild swelling 24–48hrs",
+    "description": "Reshapes and refines the nose bridge, tip, or dorsal hump without surgery. Immediate results lasting 9–12 months. Requires an experienced injector."
+  },
+  {
+    "name": "Sculptra — face volumisation",
+    "price": "From £3,500 per vial",
+    "painLevel": "Low (2–3/10)",
+    "downtime": "Mild swelling 24–48hrs",
+    "description": "Poly-L-lactic acid biostimulator that gradually triggers collagen production over 2–3 months. Addresses volume loss, skin laxity, and hollow temples. Results last 2+ years. Typically 2–3 sessions recommended."
+  },
+  {
+    "name": "HIFU — full face & neck lift",
+    "price": "From £2,800",
+    "painLevel": "Moderate–High (6–7/10)",
+    "downtime": "None (mild tenderness 1–2 weeks)",
+    "description": "High-Intensity Focused Ultrasound targets the SMAS layer and dermis to stimulate collagen. Lifts brows, jowls, and tightens neck. Results develop over 3 months, last 12–18 months."
+  },
+  {
+    "name": "HIFU — body contouring",
+    "price": "From £2,500",
+    "painLevel": "Moderate (4–5/10)",
+    "downtime": "None",
+    "description": "Body HIFU for fat reduction and skin tightening in localised areas such as abdomen and thighs. Suitable post-weight loss or for stubborn pockets. 1–3 sessions recommended."
+  },
+  {
+    "name": "Profhilo — face bioremodelling",
+    "price": "From £1,800 per session",
+    "painLevel": "Low (2–3/10)",
+    "downtime": "Mild bumps resolve within 24hrs",
+    "description": "Ultra-pure HA injectable that spreads through tissue to deeply hydrate and stimulate collagen and elastin. Improves skin quality, laxity, and radiance. 2 sessions 4 weeks apart; results last 6 months."
+  },
+  {
+    "name": "Skin booster (Juvederm Volite / Restylane)",
+    "price": "From £1,200",
+    "painLevel": "Low (2–3/10)",
+    "downtime": "Minor injection marks resolve in 24hrs",
+    "description": "Microinjections of thin HA to deeply hydrate skin and improve elasticity and fine lines. Ideal for dry, dull, or crepe-textured skin. Series of 3 sessions recommended."
+  },
+  {
+    "name": "PRP facial (platelet-rich plasma)",
+    "price": "From £1,500",
+    "painLevel": "Moderate (4–5/10)",
+    "downtime": "Redness 1–3 days",
+    "description": "Patient's own platelet-rich plasma injected or microneedled into skin. Stimulates natural collagen, improves texture, tone, and mild laxity. Natural regenerative approach with no foreign material."
+  },
+  {
+    "name": "Thermage FLX — face",
+    "price": "From £5,000",
+    "painLevel": "Moderate (4–5/10)",
+    "downtime": "None",
+    "description": "Monopolar radiofrequency that heats deep dermis to tighten existing collagen and stimulate new formation. Single-session protocol with results lasting 1–2 years. Excellent for periorbital area and jowl laxity."
+  },
+  {
+    "name": "Carbon laser peel (Hollywood peel)",
+    "price": "From £500",
+    "painLevel": "Minimal (1/10)",
+    "downtime": "None",
+    "description": "Carbon lotion applied to skin then vaporised by laser, exfoliating dead cells, unclogging pores, and reducing oil production. Brightens skin tone and improves texture in a single session."
+  },
+  {
+    "name": "Fractional CO2 laser resurfacing",
+    "price": "From £1,800",
+    "painLevel": "Moderate–High (6–7/10)",
+    "downtime": "5–7 days peeling and redness",
+    "description": "Ablative fractional laser for significant skin resurfacing. Targets acne scars, deep wrinkles, uneven texture, and pigmentation. Results are dramatic; requires proper pre- and post-care. 1–3 sessions."
+  },
+  {
+    "name": "Microneedling with radiofrequency (Morpheus8 / Secret RF)",
+    "price": "From £2,200",
+    "painLevel": "Moderate (5/10)",
+    "downtime": "2–3 days redness and pinpoint marks",
+    "description": "Combines microneedling with RF energy to remodel collagen in deeper skin layers. Treats acne scars, enlarged pores, skin laxity, and stretch marks. 3 sessions typically recommended."
+  },
+  {
+    "name": "IV glutathione drip",
+    "price": "From £350 per session",
+    "painLevel": "Minimal (1/10)",
+    "downtime": "None",
+    "description": "Intravenous glutathione for skin brightening, antioxidant support, and pigmentation reduction. Results are cumulative; typically a course of 8–10 sessions recommended for visible brightening."
+  }
+]
