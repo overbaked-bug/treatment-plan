@@ -32,7 +32,7 @@ Edit `catalog.json` to add, remove, or update treatments. Each entry should foll
 ```json
 {
   "name": "Treatment name",
-  "price": "From RM X,XXX",
+  "price": "From £ X,XXX",
   "painLevel": "Low (2–3/10)",
   "downtime": "Description of downtime",
   "description": "What the treatment does, who it's for, expected results."
