@@ -282,6 +282,7 @@
 
   /* ── Buttons ── */
   .btn {
+   
     display: inline-flex;
     align-items: center;
     gap: 7px;
@@ -913,7 +914,7 @@ Return ONLY valid JSON (no markdown, no backticks, no preamble) in this exact st
 Order recommendations by priority. Include 2–6 treatments maximum. Only include what is genuinely indicated.`;
 
   try {
-    const res = await fetch('https://api.anthropic.com/v1/messages', {
+    const res = await fetch('https://aesthetiplan-proxy.vercel.app/api/proxy', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
